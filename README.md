@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Lazaara
+- 👀 I’m interested in CS
+- 🌱 I’m currently learning C, Java, and Kotlin
